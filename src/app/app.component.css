@@ -1,0 +1,11 @@
+.person {
+  margin: 0 auto;
+  padding: 1em 2em 1em 2em;
+  background-color: #ff9531;
+  border: 0.2em solid #000033;
+  text-align: center;
+  color: #fefeff;
+}
+
+.person .image {
+}
